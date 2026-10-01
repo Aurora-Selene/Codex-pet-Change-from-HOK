@@ -1,6 +1,6 @@
 # 嫦娥落星盏 · 像素 Q 版 Codex Pet
 
-银白发、青绿眼睛与蓝白金衣饰的嫦娥桌面伙伴。新版以大头短身的像素 Q 版形象替换原宠物，保留仓库与 Pet ID `change-starlight-cup`。
+银白发、青绿眼睛与蓝白金衣饰的嫦娥桌面伙伴。
 
 ![挥手](waving.gif)
 ![跳跃](jumping.gif)
@@ -35,7 +35,3 @@ powershell -ExecutionPolicy Bypass -File .\install.ps1
 ```
 
 也可将 `pet.json` 和 `spritesheet.webp` 放入 `$CODEX_HOME/pets/change-starlight-cup`；未设置 CODEX_HOME 时使用 `~/.codex/pets/change-starlight-cup`。Windows 默认目录为 `%USERPROFILE%\.codex\pets\change-starlight-cup`。
-
-## 验证与制作
-
-基于原创生成的嫦娥形象，动作节奏参考本机胡桃宠物。全部动作通过内置 imagegen 生成，透明背景提取、图集排版、边缘清理与预览导出使用确定性处理。尺寸、帧数、透明像素以及逐行动作、表情、角色一致性已检查；未在 Codex 实时宠物窗口实测。
