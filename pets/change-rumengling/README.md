@@ -1,6 +1,6 @@
 # 嫦娥·如梦令 · Codex Pet
 
-[← 返回两个宠物的目录](../../README.md) · [查看另一个宠物](../change-starlight-cup/README.md)
+[← 返回宠物目录](../../README.md) · [落星盏](../change-starlight-cup/README.md) · [寒月公主](../change-classic/README.md)
 
 黑发、蓝白梦衣与桃色团扇的像素 Q 版桌面伙伴。团扇小幅轻挥；跳跃采用双腿靠拢、轻压膝起落，并保留手臂与团扇摆动。
 
@@ -22,7 +22,7 @@ Windows PowerShell：
 powershell -ExecutionPolicy Bypass -File .\install.ps1
 ```
 
-也可以手动将 [pet.json](pet.json) 和 [spritesheet.webp](spritesheet.webp) 放进 `~/.codex/pets/change-rumengling/`；Windows 默认目录为 `%USERPROFILE%\.codex\pets\change-rumengling`。设置了 `CODEX_HOME` 时使用其下的 `pets/change-rumengling`。两个宠物使用不同 ID，可以同时安装。安装后刷新 Codex 宠物列表，必要时重新启动。
+也可以手动将 [pet.json](pet.json) 和 [spritesheet.webp](spritesheet.webp) 放进 `~/.codex/pets/change-rumengling/`；Windows 默认目录为 `%USERPROFILE%\.codex\pets\change-rumengling`。设置了 `CODEX_HOME` 时使用其下的 `pets/change-rumengling`。三款宠物使用不同 ID，可以同时安装。安装后刷新 Codex 宠物列表，必要时重新启动。
 
 ## 九个动作
 

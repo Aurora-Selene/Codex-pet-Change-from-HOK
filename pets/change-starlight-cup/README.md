@@ -1,6 +1,6 @@
 # 嫦娥·落星盏 · Codex Pet
 
-[← 返回两个宠物的目录](../../README.md) · [查看另一个宠物](../change-rumengling/README.md)
+[← 返回宠物目录](../../README.md) · [如梦令](../change-rumengling/README.md) · [寒月公主](../change-classic/README.md)
 
 银白发、青绿眼睛与蓝白金衣饰的像素 Q 版桌面伙伴。
 
@@ -22,7 +22,7 @@ Windows PowerShell：
 powershell -ExecutionPolicy Bypass -File .\install.ps1
 ```
 
-也可以手动将 [pet.json](pet.json) 和 [spritesheet.webp](spritesheet.webp) 放进 `~/.codex/pets/change-starlight-cup/`；Windows 默认目录为 `%USERPROFILE%\.codex\pets\change-starlight-cup`。设置了 `CODEX_HOME` 时使用其下的 `pets/change-starlight-cup`。两个宠物使用不同 ID，可以同时安装。安装后刷新 Codex 宠物列表，必要时重新启动。
+也可以手动将 [pet.json](pet.json) 和 [spritesheet.webp](spritesheet.webp) 放进 `~/.codex/pets/change-starlight-cup/`；Windows 默认目录为 `%USERPROFILE%\.codex\pets\change-starlight-cup`。设置了 `CODEX_HOME` 时使用其下的 `pets/change-starlight-cup`。三款宠物使用不同 ID，可以同时安装。安装后刷新 Codex 宠物列表，必要时重新启动。
 
 ## 九个动作
 
