@@ -1,4 +1,4 @@
-# 嫦娥落星盏 · Codex Pet
+# 嫦娥·落星盏 · Codex Pet
 
 [← 返回两个宠物的目录](../../README.md) · [查看另一个宠物](../change-rumengling/README.md)
 

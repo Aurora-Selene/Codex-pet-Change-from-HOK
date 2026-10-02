@@ -4,9 +4,9 @@
 
 ## 宠物目录
 
-| 嫦娥落星盏 | 嫦娥·如梦令 |
+| 嫦娥·落星盏 | 嫦娥·如梦令 |
 | :---: | :---: |
-| [![嫦娥落星盏](pets/change-starlight-cup/idle.gif)](pets/change-starlight-cup/README.md) | [![嫦娥·如梦令](pets/change-rumengling/idle.gif)](pets/change-rumengling/README.md) |
+| [![嫦娥·落星盏](pets/change-starlight-cup/idle.gif)](pets/change-starlight-cup/README.md) | [![嫦娥·如梦令](pets/change-rumengling/idle.gif)](pets/change-rumengling/README.md) |
 | **[查看落星盏 →](pets/change-starlight-cup/README.md)** | **[查看如梦令 →](pets/change-rumengling/README.md)** |
 | 银白发、青绿眼睛、蓝白金衣饰 | 黑发、蓝白梦衣、桃色团扇 |
 | [配置文件](pets/change-starlight-cup/pet.json) · [动作图集](pets/change-starlight-cup/spritesheet.webp) | [配置文件](pets/change-rumengling/pet.json) · [动作图集](pets/change-rumengling/spritesheet.webp) |
@@ -24,7 +24,7 @@
 
 ```text
 pets/
-├── change-starlight-cup/   # 嫦娥落星盏
+├── change-starlight-cup/   # 嫦娥·落星盏
 └── change-rumengling/      # 嫦娥·如梦令
 ```
 
